@@ -14,3 +14,5 @@ while(true); do
 	fi
 	sleep 60
 done
+
+#Edit /etc/rc.local --> Add bash /home/pi/reverse_shell.sh
